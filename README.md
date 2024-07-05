@@ -1,12 +1,13 @@
-CID_286_Athena_Commando_F_NeonCat, 1500
-Pickaxe_ID_131_NeonCat, 800
-EID_Kittycat, 500
+CID_481_Athena_Commando_F_Geode, 1500
+Pickaxe_ID_202_AshtonBoardwalk, 800
+Pickaxe_ID_190_GolfClub, 500
 na
 na
 na
-CID_328_Athena_Commando_F_Tennis, 1200
-CID_513_Athena_Commando_M_CubePaintJonesy, 800
-Glider_ID_140_ShatterFly, 800
-Pickaxe_ID_388_DonutDish1H, 800
-CID_471_Athena_Commando_F_Bani, 1200
-Wrap_011_HotCold, 300
+CID_271_Athena_Commando_F_SushiChef, 1200
+ CID_229_Athena_Commando_F_DarkBomber, 800
+Pickaxe_ID_106_DarkBomber, 800
+EID_LazyShuffle, 800
+EID_Warehouse
+EID_Warehouse, 1200
+Architect_TeriyakiWarrior_Bundle, 300
